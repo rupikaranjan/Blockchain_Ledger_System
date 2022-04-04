@@ -11,8 +11,7 @@ A Blockchain based ledger system with user-friendly web interface. This ledger s
 ## Technologies Used
 
 * [pandas](https://pypi.org/project/pandas/) - for analyzing data
-* [streamlit](https://pypi.org/project/pandas/) - for analyzing data
-* [hashlib]() -
+* [streamlit](https://docs.streamlit.io/library/get-started/main-concepts) - Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps
 
 ---
 
@@ -35,7 +34,7 @@ streamlit run pychain.py.
 
 ```
 
---
+---
 
 ## Implementation
 
